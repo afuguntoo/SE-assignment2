@@ -1,2 +1,7 @@
 print("Hello, World!")
-print("Hi!  Feature-2 Version")
+print("Hi!, Conflict solved")
+
+
+intro = input("Please, introduce yourself: ")
+
+print(f"Introduction: {intro}")
