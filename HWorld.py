@@ -2,6 +2,6 @@ print("Hello, World!")
 print("Hi!, Conflict solved")
 
 
-intro = input("Please, introduce yourself: ")
+goals = input("Enter your goals: ")
 
-print(f"Introduction: {intro}")
+print(f"Goals: {goals}")
