@@ -1,4 +1,7 @@
 print("Hello, World!")
+
+print("Hi!, Conflict solved")
+
 print("Hi!, Conflict solved")
 
 #EmmanuelAli
@@ -15,3 +18,4 @@ print(f"Introduction: {intro}")
 
 goals = input("Enter your goals: ")
 print(f"Goals: {goals}")
+
