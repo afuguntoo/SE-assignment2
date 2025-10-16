@@ -15,11 +15,14 @@ The project simulates a simple console-based interaction where users can introdu
 
 
 ## 3. Issues and Resolutions
-During development, the project addressed two main features:
+During development, the project addressed two main issues:
 
 - **Introduction Section:** Implemented a user input feature that allows users to enter and then display their personal introduction.
 - **Goal Section:** Added functionality for users to input both short-term and long-term goals, which are then printed later.
 - **RESOLUTION:** Both sections were successfully integrated into the program, ensuring full interactivity and functionality. 
+
+3.1. Conflicts:
+- Merging PR #5 with PR #6 caused a conflict in the greeting section, which was resolved by combining all greetings and retaining the user input functionality
 
 
 ## 4. Workflow Summary
