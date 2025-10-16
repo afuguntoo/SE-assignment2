@@ -23,7 +23,9 @@ During development, the project addressed two main issues:
 
 3.1. Conflicts:
 - Merging PR #5 with PR #6 caused a conflict in the greeting section, which was resolved by combining all greetings and retaining the user input functionality
-
+- Feature-Introduction vs Feature-Goals: Both branches added user input sections for introduction and goals. The conflict was resolved by separating the two sections so that both features work correctly and then merging them in the main branch.
+- Feature-2 vs Main: Both branches modified the greeting message in Hwork.py. The conflict was resolved manually to keep the final greeting consistent.
+  
 
 ## 4. Workflow Summary
 This project follows a structured Git workflow:
