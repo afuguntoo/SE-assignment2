@@ -1,6 +1,9 @@
 print("Hello, World!")
 print("Hi!, Conflict solved")
 
+#EmmanuelAli
+print("Have a nice day")
+
 
 print("Hi! Joaquin Owono")
 print("Hi! Feature-2 Version")
